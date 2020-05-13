@@ -2,6 +2,9 @@
 Draw.io Iconset for Splunk.  
 
 # 22 Icons Included (Updated May 2020)  
+
+![Screenshot](screenshot.png)
+
 - Add-On   
 - Alert
 - App
@@ -27,3 +30,8 @@ Draw.io Iconset for Splunk.
 
 Style guide [https://wiki.splunk.com/images/e/e0/Splunk-Icon-Styleguide.pdf]
 
+# How to  
+1. Download the XML file from this repo
+2. In Draw.io select:
+> File -> Import From... -> Device...
+Select the XML file you downloaded
