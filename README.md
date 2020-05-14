@@ -1,6 +1,8 @@
 # splunk_drawio_icons. 
 Draw.io Iconset for Splunk. Based on publically available images at https://wiki.splunk.com/Community:Splunk_Visio_Stencil
 
+* More icons on V2 branch - Work In Progress*
+
 # 22 Icons Included (Updated May 2020)  
 
 ![Screenshot](screenshot.png)
