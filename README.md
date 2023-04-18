@@ -35,5 +35,5 @@ Style guide [https://wiki.splunk.com/images/e/e0/Splunk-Icon-Styleguide.pdf]
 # How to  
 1. Download the XML file from this repo
 2. In Draw.io select:
-> File -> Import From... -> Device...
+> File -> Open Library -> Device...
 Select the XML file you downloaded
